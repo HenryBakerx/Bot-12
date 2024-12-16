@@ -1,4 +1,3 @@
---upgrade pip
 wheel
 pillow==9.5.0
 streamlit==1.25.0
